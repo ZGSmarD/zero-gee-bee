@@ -1,0 +1,8 @@
+prefix=/home/sergiogq/hector_quadrotor_tutorial/devel
+
+Name: hector_compressed_map_transport
+Description: Description of hector_compressed_map_transport
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/sergiogq/hector_quadrotor_tutorial/devel/lib 
+Requires: 

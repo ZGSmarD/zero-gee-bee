@@ -1,0 +1,8 @@
+prefix=/home/sergiogq/hector_quadrotor_tutorial/install
+
+Name: hector_gazebo_worlds
+Description: Description of hector_gazebo_worlds
+Version: 0.3.6
+Cflags: 
+Libs: -L/home/sergiogq/hector_quadrotor_tutorial/install/lib 
+Requires: 
